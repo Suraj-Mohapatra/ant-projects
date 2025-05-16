@@ -7,7 +7,7 @@ import org.apache.commons.collections4.multimap.ArrayListValuedHashMap;
 public class Greeting {
     
     public static String greet(){
-        return "Hello! Welcome you to java-ant-app";
+        return "Hello! Welcome you to java-ant-app-nb";
     }
     
     public static void foo(){
